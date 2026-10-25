@@ -39,6 +39,11 @@ $ cat talks.log
 ### 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Domina el Desarrollo en la Nube: Consejos para la Certificación AWS Certified Developer - Associate](https://kevinlupera.github.io/posts/certified-developer-associate/)
+- [Builder QR Code](https://kevinlupera.github.io/projects/builder-qr-code/)
+- [Serverless optimization](https://kevinlupera.github.io/posts/optimize-serverless/)
+- [Obten tu certificación Serverless!](https://kevinlupera.github.io/posts/get-serverless-badge-aws/)
+- [Como construir tu marca personal en internet](https://kevinlupera.github.io/posts/brand-personal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
